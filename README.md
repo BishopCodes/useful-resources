@@ -6,9 +6,10 @@
 2. [Online Sandbox](#Online-Sandbox)
 3. [Generators](#Generators)
 4. [Bundlers](#Bundlers)
-5. [VsCode Plugins](#VSCode-Plugins)
-6. [Other Tools](#Other-Tools)
-7. [Learning](#Learning)
+5. [Testing](#Testing)
+6. [VsCode Plugins](#VSCode-Plugins)
+7. [Other Tools](#Other-Tools)
+8. [Learning](#Learning)
 
 ### IDE's
 #### Local Install
@@ -58,10 +59,16 @@
 * [DotEnv (Local env config)](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-#### Other Tools
+### Testing
+* [Cypress (Dont use Selenium :))](https://www.cypress.io/)
+* [Jest](https://jestjs.io/)
+* [Mocha](https://mochajs.org/)
+* [NUnit (.NET)](https://nunit.org/)
+
+### Other Tools
 * [Boostnote (Program Notes!)](https://boostnote.io/)
 
-#### Learning
+### Learning
 * [PluralSight (look for info about student trials)](https://www.pluralsight.com/)
 * [Edx](https://www.edx.org/)
 * [Pramp (Code interview practice)](https://www.pramp.com/)
