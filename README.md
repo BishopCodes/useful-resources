@@ -7,7 +7,8 @@
 3. [Generators](#Generators)
 4. [Bundlers](#Bundlers)
 5. [VsCode Plugins](#VSCode-Plugins)
-6. [Learning](#Learning)
+6. [Other Tools](#Other-Tools)
+7. [Learning](#Learning)
 
 ### IDE's
 #### Local Install
@@ -56,6 +57,9 @@
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [DotEnv (Local env config)](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+#### Other Tools
+* [Boostnote (Program Notes!)](https://boostnote.io/)
 
 #### Learning
 * [PluralSight (look for info about student trials)](https://www.pluralsight.com/)
