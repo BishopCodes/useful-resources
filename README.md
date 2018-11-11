@@ -97,7 +97,6 @@
 * [SQLite (Relational Database)](https://sqlite.org/index.html)
 * [MongoDB (Document Database)](https://www.mongodb.org/)
 * [Cassandra (NoSQL column-oriented)](http://cassandra.apache.org/)
-* [Cassandra (NoSQL column-oriented)](http://cassandra.apache.org/)
 * [PostgreSQL (Relational Database)](https://www.postgresql.org/)
 
 
