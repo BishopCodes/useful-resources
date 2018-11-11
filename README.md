@@ -7,7 +7,7 @@
 3. [Generators](#Generators)
 4. [Bundlers](#Bundlers)
 5. [Machine Learning](#Machine-Learning)
-6. [Continuous Integration](#Continuous Integration)
+6. [Continuous Integration](#Continuous-Integration)
 7. [Code Repositories](#Code-Repositories)
 8. [Work Planning](#Work-Planning)
 9. [Cloud Hosting](#Cloud-Hosting)
