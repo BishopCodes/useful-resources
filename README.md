@@ -6,10 +6,18 @@
 2. [Online Sandbox](#Online-Sandbox)
 3. [Generators](#Generators)
 4. [Bundlers](#Bundlers)
-5. [Testing](#Testing)
-6. [VsCode Plugins](#VSCode-Plugins)
-7. [Other Tools](#Other-Tools)
-8. [Learning](#Learning)
+5. [Machine Learning](#Machine-Learning)
+6. [Continuous Integration](#Continuous Integration)
+7. [Code Repositories](#Code-Repositories)
+8. [Work Planning](#Work-Planning)
+9. [Cloud Hosting](#Cloud-Hosting)
+10. [Database](#Database)
+11. [Testing](#Testing)
+12. [VsCode Plugins](#VSCode-Plugins)
+13. [CSS](#CSS)
+14. [Other Tools](#Other-Tools)
+15. [Learning](#Learning)
+
 
 ### IDE's
 #### Local Install
@@ -19,6 +27,7 @@
 * [Atom](https://atom.io/)
 #### Online
 * [CodeSandbox](https://codesandbox.io/)
+
 
 ### Online Sandbox
 * [Repl](https://repl.it/)
@@ -35,6 +44,61 @@
 * [Parcel](https://parceljs.org/)
 * [Webpack](https://webpack.js.org/)
 * [Browserify](http://browserify.org/)
+
+
+### Machine Learning
+* [PyTorch (Python)](https://pytorch.org/)
+* [Keras (Python)](https://keras.io/)
+* [TensorFlow (Python)](https://www.tensorflow.org/)
+* [TensorFlow.js (Node/JavaScript)](https://js.tensorflow.org/)
+* [Caffe (C++, Python)](http://caffe.berkeleyvision.org/)
+* [Microsoft Cognitive Toolkit (C++, C#, Python, Java)](https://github.com/microsoft/cntk)
+* [MxNet (C++, Python, R, Scala, Perl, Go, Javascript, etc...)](https://mxnet.apache.org/)
+* [Chainer (Python)](https://chainer.org/)
+
+
+### Continuous Integration
+* [Jenkins :heart:](https://jenkins.io/)
+* [Travis CI](https://travis-ci.org/)
+* [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+* [CircleCi](https://circleci.com/)
+* [Ansible](https://www.ansible.com/)
+* [Azure DevOps](https://visualstudio.microsoft.com/team-services/)
+* [AppVeyor](https://www.appveyor.com/)
+
+
+### Code Repositories
+* [Github (duh)](https://github.com/)
+* [Gitlab](https://about.gitlab.com/)
+* [Bitbucket](https://bitbucket.org/)
+* [Azure DevOps](https://visualstudio.microsoft.com/team-services/)
+
+
+### Work Planning
+* [Glo Boards](https://www.gitkraken.com/glo)
+* [Trello](https://trello.com)
+* [GitLab (Kanban)](https://about.gitlab.com/product/kanban-boards/)
+* [Azure DevOps](https://visualstudio.microsoft.com/team-services/)
+
+
+### Cloud Hosting
+* [Heroku](https://www.heroku.com/)
+* [Firebase (Google)](https://firebase.google.com/)
+* [Google App Engine](https://cloud.google.com/appengine/docs/)
+* [Microsoft Azure](https://azure.microsoft.com/en-us/)
+* [AWS (Amazon)](https://aws.amazon.com/)
+* [Docker Cloud](https://cloud.docker.com/)
+
+
+### Database
+* [MySql (Relational Database)](https://www.mysql.com/)
+* [Neo4J (Graph Database)](https://neo4j.com/)
+* [Redis (In Memory Database)](https://redis.io/)
+* [SQLite (Relational Database)](https://sqlite.org/index.html)
+* [MongoDB (Document Database)](https://www.mongodb.org/)
+* [Cassandra (NoSQL column-oriented)](http://cassandra.apache.org/)
+* [Cassandra (NoSQL column-oriented)](http://cassandra.apache.org/)
+* [PostgreSQL (Relational Database)](https://www.postgresql.org/)
 
 
 ### VSCode Plugins
@@ -59,14 +123,31 @@
 * [DotEnv (Local env config)](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
+
 ### Testing
 * [Cypress (Dont use Selenium :))](https://www.cypress.io/)
 * [Jest](https://jestjs.io/)
 * [Mocha](https://mochajs.org/)
 * [NUnit (.NET)](https://nunit.org/)
 
+
+### CSS
+#### Frameworks
+* [Bootstrap](https://getbootstrap.com/)
+* [Material UI](https://material-ui.com/)
+* [MDB Bootstrap](https://mdbootstrap.com)
+* [Angular Material](https://material.angular.io/)
+#### Icons
+* [CSS Icon](https://cssicon.space/)
+* [Modern UI Icons](http://modernuiicons.com/)
+* [Material Design Icons](http://materialdesignicons.com/)
+* [Font Awesome](https://fontawesome.com/)
+
+
 ### Other Tools
 * [Boostnote (Program Notes!)](https://boostnote.io/)
+* [GitKraken](https://www.gitkraken.com/git-client)
+
 
 ### Learning
 * [PluralSight (look for info about student trials)](https://www.pluralsight.com/)
