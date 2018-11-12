@@ -55,6 +55,7 @@
 * [Microsoft Cognitive Toolkit (C++, C#, Python, Java)](https://github.com/microsoft/cntk)
 * [MxNet (C++, Python, R, Scala, Perl, Go, Javascript, etc...)](https://mxnet.apache.org/)
 * [Chainer (Python)](https://chainer.org/)
+* [ML5js (JavaScript)](https://ml5js.org/)
 
 
 ### Continuous Integration
