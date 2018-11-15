@@ -122,6 +122,21 @@
 * [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [DotEnv (Local env config)](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+* [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+* [JavaScript ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+* [CodeStream (Slack & Live Share)](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+* [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+* [Markdown Support](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [Markdown Linter](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [Kanban (In VSCode)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
+* [Diff Check](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
+* [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
+* [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
+* [Polacode :heart:](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 
 ### Testing
