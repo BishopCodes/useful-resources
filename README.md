@@ -137,6 +137,7 @@
 * [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 * [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
 * [Polacode :heart:](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+* [Paste from Web](https://marketplace.visualstudio.com/items?itemName=BishopCodes.vscode-pfw)
 
 
 ### Testing
